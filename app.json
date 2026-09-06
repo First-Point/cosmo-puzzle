@@ -1,0 +1,34 @@
+{
+  "name": "Cosmo Puzzle",
+  "storeName": {
+    "ios": "Cosmo Puzzle: Galaxy Match 3",
+    "android": "Cosmo Puzzle: Galaxy Match 3"
+  },
+  "developer": {
+    "name": "First Point",
+    "legalName": "First Point Yazılım Limited Şirketi",
+    "url": "https://firstpoint.com.tr",
+    "wikidata": "Q141016074",
+    "github": "https://github.com/First-Point"
+  },
+  "wikidata": "Q141016739",
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "category": "Games",
+  "genre": [
+    "Puzzle",
+    "Casual"
+  ],
+  "price": "free",
+  "stores": {
+    "appStore": "https://apps.apple.com/us/app/cosmo-puzzle-galaxy-match-3/id6759265576",
+    "googlePlay": "https://play.google.com/store/apps/details?id=com.firstpoint.cosmopuzzle"
+  },
+  "website": "https://firstpoint.com.tr/apps/cosmo-puzzle",
+  "privacyPolicy": "https://firstpoint.com.tr/cosmo-puzzle/privacy-policy.html",
+  "terms": "https://firstpoint.com.tr/cosmo-puzzle/terms-of-service.html",
+  "support": "https://form.jotform.com/261403034006036",
+  "updated": "2026-09-07"
+}
