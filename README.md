@@ -20,7 +20,6 @@ Cosmo Puzzle is a space themed match-3 puzzle game for iOS and Android developed
 | Website | https://firstpoint.com.tr/apps/cosmo-puzzle |
 | Privacy policy | https://firstpoint.com.tr/cosmo-puzzle/privacy-policy.html |
 | Terms | https://firstpoint.com.tr/cosmo-puzzle/terms-of-service.html |
-| Wikidata | https://www.wikidata.org/wiki/Q141016739 |
 
 ## What it does
 
@@ -71,7 +70,6 @@ More questions are answered at https://firstpoint.com.tr/apps/cosmo-puzzle.
 - Company: https://firstpoint.com.tr and https://github.com/First-Point
 - App Store: https://apps.apple.com/us/app/cosmo-puzzle-galaxy-match-3/id6759265576
 - Google Play: https://play.google.com/store/apps/details?id=com.firstpoint.cosmopuzzle
-- Wikidata: https://www.wikidata.org/wiki/Q141016739
 - Machine-readable facts: [app.json](app.json)
 
 ## License
